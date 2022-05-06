@@ -1,1 +1,5 @@
 ALTERANDO O ARQUIVO CONFIG
+
+function teste() {
+    // codigo
+}

@@ -4,7 +4,7 @@ function teste() {
     // codigo
     fasdfadsfxFlexAlign
     fasdfadsfxFlexAlign
-    
+
 }
 
 function funcaoNova() {
@@ -13,3 +13,5 @@ function funcaoNova() {
     fasdfadsfxFlexAlign="start"
     sdfasd
 }
+
+fasdfasdfastd-data-table-cell [numeric]="true"

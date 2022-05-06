@@ -2,4 +2,14 @@ ALTERANDO O ARQUIVO CONFIG
 
 function teste() {
     // codigo
+    fasdfadsfxFlexAlign
+    fasdfadsfxFlexAlign
+    
+}
+
+function funcaoNova() {
+
+    fsadfmatDialogActions
+    fasdfadsfxFlexAlign="start"
+    sdfasd
 }
